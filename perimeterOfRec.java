@@ -14,6 +14,6 @@ public class perimeterOfRec {
 
         System.out.println("The perimeter of the rectangle is: " + perimeter);
 
-        sc.close();
+  
     }
 }
